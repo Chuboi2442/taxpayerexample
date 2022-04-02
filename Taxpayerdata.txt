@@ -1,0 +1,12 @@
+//	std::string taxpayerId;
+//	std::string name;
+//	std::string address;
+//	std::string postcode;
+//	int salary = 0;
+//	int deductions = 0;
+//	double taxDue = 0;
+7101003,Mike,23 boinig road,2615,48000,12000,0
+7201003,Jane Philips,29 boinig cresent,2616,47000,12000,0
+7301003,Philip Jane,23 bong road,2615,49000,000,0
+7401004,Peta,23 bong bong road,2615,148000,19000,0
+7101205,Abdulla,23 Station st,2615,80000,21000,0
